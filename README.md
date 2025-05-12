@@ -14,6 +14,7 @@ scoop install <TOOL>
 |Repository|Formula|Description|
 |--|--|--|
 |[azddns](https://github.com/mburumaxwell/azddns)|[manifest](azddns.rb)|Dynamic DNS (DDNS) tool for Azure DNS.|
+|[azfwrmgr](https://github.com/mburumaxwell/azfwrmgr)|[manifest](azfwrmgr.rb)|Azure Firewall Rules Manager.|
 
 ## Documentation
 
