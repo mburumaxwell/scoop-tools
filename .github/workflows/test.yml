@@ -10,7 +10,7 @@ jobs:
   Test:
     strategy:
       matrix:
-        manifest: [azddns, azfwrmgr]
+        manifest: [azddns, azfwrmgr, azsqlidxmgr]
         # https://github.blog/changelog/2025-04-14-windows-arm64-hosted-runners-now-available-in-public-preview
         os:
           - windows-latest
