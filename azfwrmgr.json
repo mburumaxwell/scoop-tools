@@ -1,23 +1,23 @@
 {
   "homepage": "https://github.com/mburumaxwell/azfwrmgr",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "license": "MIT",
   "description": "Azure Firewall Rules Manager.",
   "architecture": {
     "arm64": {
-      "url": "https://github.com/mburumaxwell/azfwrmgr/releases/download/0.3.0/azfwrmgr-0.3.0-win-arm64.zip",
+      "url": "https://github.com/mburumaxwell/azfwrmgr/releases/download/0.3.1/azfwrmgr-0.3.1-win-arm64.zip",
       "bin": ["azfwrmgr.exe"],
-      "hash": "4f93d6a6775c033a192012d47dcadfcf7927a2dc4ec13a20402135d99fc2f670"
+      "hash": "e3f5144f62e9afc9ac065408214dc14ac6135283e9b2425432561b05710da4bb"
     },
     "64bit": {
-      "url": "https://github.com/mburumaxwell/azfwrmgr/releases/download/0.3.0/azfwrmgr-0.3.0-win-x64.zip",
+      "url": "https://github.com/mburumaxwell/azfwrmgr/releases/download/0.3.1/azfwrmgr-0.3.1-win-x64.zip",
       "bin": ["azfwrmgr.exe"],
-      "hash": "ff879ab585e04f14972136fa0b4594440ffbb0198f13b36f1557e75492202517"
+      "hash": "e975c5e0e10e83e41f48045c67155b35a7224e77512d9a1bca8cd5243b1b6bae"
     },
     "32bit": {
-      "url": "https://github.com/mburumaxwell/azfwrmgr/releases/download/0.3.0/azfwrmgr-0.3.0-win-x86.zip",
+      "url": "https://github.com/mburumaxwell/azfwrmgr/releases/download/0.3.1/azfwrmgr-0.3.1-win-x86.zip",
       "bin": ["azfwrmgr.exe"],
-      "hash": "4b0ae16412940103d2293432d3d53aaf28e061b8003b2f45c54cade15e83d366"
+      "hash": "b6fb6402478bfd0cdd8e4ceb509f09684489795779c17858fdef4efb0c0a325f"
     }
   }
 }
