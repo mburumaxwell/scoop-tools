@@ -1,23 +1,23 @@
 {
   "homepage": "https://github.com/mburumaxwell/azddns",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "license": "MIT",
   "description": "Dynamic DNS (DDNS) tool for Azure DNS.",
   "architecture": {
     "arm64": {
-      "url": "https://github.com/mburumaxwell/azddns/releases/download/0.4.0/azddns-0.4.0-win-arm64.zip",
+      "url": "https://github.com/mburumaxwell/azddns/releases/download/0.4.1/azddns-0.4.1-win-arm64.zip",
       "bin": ["azddns.exe"],
-      "hash": "186a7cbfeb89b45f460b5210cb906486e1f3f421cb19e1ee78489e6aabdbf6fe"
+      "hash": "2f26f0a2ec6f666038b7716016c6b879d112e311386dda04a9d938b7712600c2"
     },
     "64bit": {
-      "url": "https://github.com/mburumaxwell/azddns/releases/download/0.4.0/azddns-0.4.0-win-x64.zip",
+      "url": "https://github.com/mburumaxwell/azddns/releases/download/0.4.1/azddns-0.4.1-win-x64.zip",
       "bin": ["azddns.exe"],
-      "hash": "f4f3a86b65dd35eefca80c2ce8c3b39b97dede32bc96d327855b582dc3d29dfa"
+      "hash": "aba81afc0eb710d224397322c26f8109ef09b917d7d247f82fd298d5376e76c9"
     },
     "32bit": {
-      "url": "https://github.com/mburumaxwell/azddns/releases/download/0.4.0/azddns-0.4.0-win-x86.zip",
+      "url": "https://github.com/mburumaxwell/azddns/releases/download/0.4.1/azddns-0.4.1-win-x86.zip",
       "bin": ["azddns.exe"],
-      "hash": "44e969e8046d7aa15a8485bb4a32fe6b130f37b0c51265ed3dbc012a8eb62841"
+      "hash": "2530f52471764df33c650b50af170f8f06fafff08f4acb703efdcf890a85cc1c"
     }
   }
 }
