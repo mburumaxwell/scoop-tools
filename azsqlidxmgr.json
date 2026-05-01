@@ -1,23 +1,23 @@
 {
   "homepage": "https://github.com/mburumaxwell/azsqlidxmgr",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "license": "MIT",
   "description": "Azure SQL Index Manager",
   "architecture": {
     "arm64": {
-      "url": "https://github.com/mburumaxwell/azsqlidxmgr/releases/download/0.3.0/azsqlidxmgr-0.3.0-win-arm64.zip",
+      "url": "https://github.com/mburumaxwell/azsqlidxmgr/releases/download/0.3.1/azsqlidxmgr-0.3.1-win-arm64.zip",
       "bin": ["azsqlidxmgr.exe"],
-      "hash": "6b59771d0953bda3129e603e7169fca45b2f1a98bd0ea7a5fa2472f74d85886a"
+      "hash": "0a06d51e00a7dc670a60029ba0837fa4dfde853d29dac9d1c61f4db878a533bf"
     },
     "64bit": {
-      "url": "https://github.com/mburumaxwell/azsqlidxmgr/releases/download/0.3.0/azsqlidxmgr-0.3.0-win-x64.zip",
+      "url": "https://github.com/mburumaxwell/azsqlidxmgr/releases/download/0.3.1/azsqlidxmgr-0.3.1-win-x64.zip",
       "bin": ["azsqlidxmgr.exe"],
-      "hash": "c9eea6fc9a24555c1e89eb5bee20f3de6bd779a0daa4e3ddf4e816e3471c3e91"
+      "hash": "9cc9b8f6f5789575653fef9bd84b1c32736e940b9f4268fa1cba00fbd9751246"
     },
     "32bit": {
-      "url": "https://github.com/mburumaxwell/azsqlidxmgr/releases/download/0.3.0/azsqlidxmgr-0.3.0-win-x86.zip",
+      "url": "https://github.com/mburumaxwell/azsqlidxmgr/releases/download/0.3.1/azsqlidxmgr-0.3.1-win-x86.zip",
       "bin": ["azsqlidxmgr.exe"],
-      "hash": "f4a4e561f5866110e273e1541826954701443a17ce0888c5934fcbf815a1daa1"
+      "hash": "a4c4292053448657a6175b1e8f101240a3bffcabaa41551a3ceb6bbe8e9fc4ee"
     }
   }
 }
